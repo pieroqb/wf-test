@@ -18,6 +18,6 @@ test('adds 1 + 2 to equal 3', () => {
     expect(2+2).toBe(10);
   });
 
-  test('adds 2 + 2 to equal 11', () => {
-    expect(2+2).toBe(11);
+  test('adds 2 + 2 to equal 4', () => {
+    expect(2+2).toBe(4);
   });
